@@ -1,0 +1,11 @@
+body {
+	background-color: yellow;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;	
+	font-family: Helvetica; 
+}
+
+h1 {
+	color: red;
+}
